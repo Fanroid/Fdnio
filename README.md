@@ -33,5 +33,15 @@
     "عکس": "https://s19.picofile.com/file/8439298300/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B8%DB%B1%DB%B3_%DB%B0%DB%B1%DB%B2%DB%B7%DB%B1%DB%B5%DB%B4%DB%B3%DB%B9.jpg",
     "جزئیات": "در این آموزش ترفند روت کردن گوشی های اندروید بی خطر ، را یاد خواهید گرفت!\n‌\nبرنامه ما رو به اطرافیانتون معرفی کنید 😍 📱",
     "لینک": "https://www.aparat.com/video/video/embed/videohash/0yCDJ/vt/frame"
+  },
+  {
+    "عکس": "https://s19.picofile.com/file/8439481068/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B8%DB%B1%DB%B7_%DB%B0%DB%B8%DB%B5%DB%B5%DB%B5%DB%B6%DB%B1%DB%B4%DB%B0.jpg",
+    "جزئیات": "در این آموزش ، آموزش فعال کردن موس گوشی رو یاد خواهید گرفت!\n‌\nبرنامه ما رو به اطرافیانتون معرفی کنید 😍 📱",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/ev3Ns/vt/frame"
+  },
+  {
+    "عکس": "https://s19.picofile.com/file/8439481192/InShot_%DB%B2%DB%B0%DB%B2%DB%B1%DB%B0%DB%B8%DB%B1%DB%B7_%DB%B0%DB%B9%DB%B0%DB%B0%DB%B5%DB%B6%DB%B6%DB%B8%DB%B9.jpg",
+    "جزئیات": "در این آموزش ، چند ترفند خفن اندروید رو یاد خواهید گرفت!\n‌\n ما رو به دوستان و اطرافیانتون  معرفی کنید😍✨",
+    "لینک": "https://www.aparat.com/video/video/embed/videohash/ev3Ns/vt/frame"
   }
 ]
